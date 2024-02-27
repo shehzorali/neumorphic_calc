@@ -7,3 +7,7 @@ Features
 - Percentage calculation.
 - Dark and light theme toggle with button and system default
 - Responsive design for various screen sizes.
+
+Dependencies:
+- clay_containers
+- google_fonts
